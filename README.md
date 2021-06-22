@@ -1,2 +1,2 @@
 # bmstu_OS_CP
-bmstu, IU7-7, Курсовой Проект по Операционным Системам (2020)
+IU10-109 Petrov, Sikumbaev, Trofimov
